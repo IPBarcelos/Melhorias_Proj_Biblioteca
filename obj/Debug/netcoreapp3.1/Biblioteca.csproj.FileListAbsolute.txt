@@ -1,0 +1,163 @@
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\scopedcss\bundle\Biblioteca.styles.css
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\SENAC\3 - Módulo B\2 - UC07 Documentar e realizar manutenção de aplicações Web\Material Complementar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\User\Desktop\atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\User\Desktop\atividade 1\Biblioteca\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\User\Desktop\atividade 2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache

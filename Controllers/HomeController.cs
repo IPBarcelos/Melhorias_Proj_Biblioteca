@@ -45,6 +45,11 @@ namespace Biblioteca.Controllers
                 return View();
             }
         }
+        public IActionResult Logout()
+        {           
+            Autenticacao.Logout(this);
+            return RedirectToAction("Index");
+        }
 
         public IActionResult Privacy()
         {

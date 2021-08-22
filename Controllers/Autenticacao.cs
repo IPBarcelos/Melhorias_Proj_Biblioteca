@@ -66,5 +66,11 @@ namespace Biblioteca.Controllers
             }
         }
 
+         public static void Logout(Controller controller)
+        {   
+            controller.HttpContext.Session.Clear();
+
+        }
+
     }
 }

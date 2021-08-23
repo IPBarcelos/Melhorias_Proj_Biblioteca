@@ -69,3 +69,58 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+/*Ajustes adicionais*/
+
+ .botao{
+   background-color: rgb(45, 45, 252);
+   border-radius: 10px;
+   color: white;
+   box-shadow: none;
+   border: none;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   margin: 4px 2px;
+   cursor: pointer;
+   transition-duration: 0.4s;
+ }
+ .botao:hover{
+   background-color: white;
+   color: blue;
+ }
+
+ .login{
+   background-color: #1C1C1C;
+   color: white;
+   text-align: center;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.25);   
+ }
+
+ .posicao{
+   margin-top: 5px;
+ }
+
+ .center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+ }
+
+ .livro{
+  box-shadow: 18px 18px 18px 18px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+
+ .caixa-form{
+  background-color: gray;
+  color: black;
+  padding: 15px;
+  font-size: bold 18px;
+ }
+
+ .ano{
+  border-radius: 4px;
+  box-shadow: 0, 0, 0, 0;
+  border: none;
+ }

@@ -41,7 +41,7 @@ namespace Biblioteca.Controllers
             }
             else
             {
-                ViewData["Erro"] = "Senha inválida";
+                ViewData["Erro"] = "Senha ou Login inválido!";
                 return View();
             }
         }

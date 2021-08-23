@@ -2,20 +2,24 @@
 @{
     ViewData["Title"] = "Login";
 }
-<!--<div class="container">-->
+<div>
+    <img src="~/img/book canva.png" height="100px" width="100px">
+    <!--<div class="container">-->
     <div class="row justify-content-md-center">
-        <div class="jumbotron col-6">
-            <h1>Bem vindo ao sistema Biblioteca</h1>
+        <div class="jumbotron col-6 login">
+                <h1>Bem vindo ao sistema Biblioteca</h1>
+                <br><br>
             <form asp-action="Login" method="POST">
                 <div class="form-group">
-                    <input type="text" placeholder="Login" asp-for="Login" class="form-control" name="login" />
+                    <input type="text" placeholder="Login" asp-for="Login" class="form-control" name="login" required/>
                 </div>
                 <div class="form-group">
-                    <input type="password" placeholder="Senha" asp-for="Senha" class="form-control" name="senha"/>
+                    <input type="password" placeholder="Senha" asp-for="Senha" class="form-control" name="senha" required/>
                 </div>
-                <input type="submit" class="btn btn-primary btn-lg" value="Entrar" />
+                <input type="submit" class="botao" value="Entrar" required/>
             </form>
             <p class="text-danger">@ViewData["Erro"]</p>
         </div>
     </div>
-<!--</div> -->
+    <!--</div> -->
+</div>
